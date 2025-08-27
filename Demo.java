@@ -1,6 +1,6 @@
 class Demo{
     public static void main(String[] args) {
-     int arr [][] = new int [7][10];
+     int arr [][] = new int [3][4];
 
      int random = (int)(Math.random()*100);
      for(int i=0 ; i<3 ; i++)
